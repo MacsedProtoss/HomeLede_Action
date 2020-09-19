@@ -1,4 +1,22 @@
-# Actions-OpenWrt
+# HomeLede_Action
+
+**Forked And Modified From P3TERX/Actions-OpenWrt**
+
+This is a modified version to supoort building of HomeLede
+
+## Usage
+
+1. Click the Use this template
+2. Push your new .config / changes of .config to this repo
+3. Action will automatically be triggered.
+
+## Notice
+
+This config containes some specialized settings. For example, luci-ssl-nginx and airplay2 support and even more.
+Plz modified on your own.
+
+
+# The Folowing is Origin ReadMe 
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
